@@ -199,9 +199,9 @@ users = {
         'role': 'ta'
     }
 }
+def restore():
+    with open('Data/users.json', 'w') as fp:
+        json.dump(users, fp)
 
-with open('Data/users.json', 'w') as fp:
-    json.dump(users, fp)
-
-with open('Data/courses.json', 'w') as fp:
-    json.dump(courses, fp)
+    with open('Data/courses.json', 'w') as fp:
+        json.dump(courses, fp)
