@@ -1,0 +1,2801 @@
+﻿{
+  "data": {
+    "values": [
+      {
+        "date": "2011-08-22T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2011-08-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-08-29T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2011-08-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-09-05T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2011-09-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-09-12T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-09-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-09-19T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-09-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-09-26T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-09-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-10-03T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-10-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-10-10T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-10-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-10-17T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-10-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-10-24T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-10-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-10-31T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-10-31T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-11-07T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-11-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-11-14T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-11-14T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-11-21T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-11-21T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-11-28T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-11-28T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-12-05T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-12-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-12-12T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-12-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-12-19T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-12-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2011-12-26T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2011-12-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-01-02T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-01-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-01-09T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-01-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-01-16T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-01-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-01-23T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-01-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-01-30T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-01-30T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-02-06T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-02-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-02-13T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-02-13T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-02-20T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-02-20T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-02-27T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-02-27T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-03-05T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-03-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-03-12T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-03-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-03-19T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-03-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-03-26T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-03-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-04-02T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-04-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-04-09T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-04-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-04-16T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-04-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-04-23T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-04-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-04-30T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-04-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-05-07T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-05-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-05-14T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-05-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-05-21T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-05-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-05-28T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-05-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-06-04T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-06-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-06-11T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-06-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-06-18T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-06-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-06-25T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-06-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-07-02T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-07-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-07-09T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-07-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-07-16T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-07-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-07-23T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-07-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-07-30T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-07-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-08-06T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-08-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-08-13T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-08-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-08-20T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-08-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-08-27T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-08-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-09-03T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-09-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-09-10T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-09-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-09-17T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-09-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-09-24T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-09-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-10-01T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-10-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-10-08T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-10-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-10-15T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-10-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-10-22T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-10-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-10-29T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-10-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-11-05T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-11-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-11-12T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-11-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-11-19T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-11-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-11-26T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-11-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-12-03T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-12-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-12-10T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2012-12-10T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-12-17T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-12-17T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-12-24T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-12-24T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2012-12-31T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2012-12-31T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-01-07T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-01-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-01-14T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-01-14T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-01-21T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-01-21T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-01-28T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-01-28T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-02-04T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-02-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-02-11T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-02-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-02-18T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-02-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-02-25T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-02-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-03-04T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-03-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-03-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-03-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-03-18T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-03-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-03-25T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-03-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-04-01T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-04-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-04-08T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-04-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-04-15T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-04-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-04-22T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-04-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-04-29T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-04-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-05-06T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-05-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-05-13T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-05-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-05-20T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-05-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-05-27T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-05-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-06-03T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-06-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-06-10T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-06-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-06-17T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-06-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-06-24T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-06-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-07-01T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-07-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-07-08T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-07-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-07-15T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-07-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-07-22T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-07-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-07-29T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-07-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-08-05T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-08-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-08-12T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-08-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-08-19T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2013-08-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-08-26T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-08-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-09-02T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-09-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-09-09T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-09-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-09-16T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-09-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-09-23T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-09-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-09-30T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-09-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-10-07T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-10-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-10-14T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-10-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-10-21T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-10-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-10-28T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-10-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-11-04T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2013-11-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-11-11T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2013-11-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-11-18T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2013-11-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-11-25T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2013-11-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-12-02T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2013-12-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-12-09T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-12-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-12-16T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-12-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-12-23T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-12-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2013-12-30T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2013-12-30T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-01-06T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-01-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-01-13T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-01-13T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-01-20T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-01-20T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-01-27T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-01-27T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-02-03T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-02-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-02-10T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-02-10T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-02-17T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-02-17T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-02-24T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-02-24T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-03-03T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-03-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-03-10T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-03-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-03-17T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-03-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-03-24T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-03-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-03-31T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-03-31T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-04-07T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-04-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-04-14T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-04-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-04-21T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-04-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-04-28T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-04-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-05-05T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-05-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-05-12T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-05-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-05-19T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-05-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-05-26T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-05-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-06-02T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-06-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-06-09T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-06-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-06-16T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-06-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-06-23T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-06-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-06-30T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-06-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-07-07T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-07-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-07-14T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-07-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-07-21T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-07-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-07-28T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-07-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-08-04T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-08-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-08-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-08-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-08-18T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-08-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-08-25T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-08-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-09-01T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-09-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-09-08T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-09-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-09-15T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-09-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-09-22T00:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2014-09-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-09-29T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-09-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-10-06T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-10-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-10-13T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2014-10-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-10-20T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2014-10-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-10-27T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2014-10-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-11-03T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2014-11-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-11-10T01:00:00.000Z",
+        "valueRollingrails": 1.8,
+        "daterails": "2014-11-10T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-11-17T01:00:00.000Z",
+        "valueRollingrails": 1.8,
+        "daterails": "2014-11-17T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-11-24T01:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2014-11-24T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-12-01T01:00:00.000Z",
+        "valueRollingrails": 1.25,
+        "daterails": "2014-12-01T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-12-08T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-12-08T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-12-15T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-12-15T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-12-22T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-12-22T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2014-12-29T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2014-12-29T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-01-05T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-01-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-01-12T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-01-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-01-19T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-01-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-01-26T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-01-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-02-02T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-02-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-02-09T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-02-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-02-16T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-02-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-02-23T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-02-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-03-02T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-03-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-03-09T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-03-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-03-16T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-03-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-03-23T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-03-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-03-30T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2015-03-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-04-06T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2015-04-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-04-13T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-04-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-04-20T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-04-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-04-27T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-04-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-05-04T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-05-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-05-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-05-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-05-18T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-05-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-05-25T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-05-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-06-01T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2015-06-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-06-08T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-06-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-06-15T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-06-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-06-22T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-06-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-06-29T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-06-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-07-06T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2015-07-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-07-13T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2015-07-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-07-20T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-07-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-07-27T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-07-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-08-03T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2015-08-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-08-10T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2015-08-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-08-17T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2015-08-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-08-24T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2015-08-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-08-31T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-08-31T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-09-07T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-09-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-09-14T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-09-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-09-21T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-09-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-09-28T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-09-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-10-05T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-10-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-10-12T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-10-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-10-19T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-10-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-10-26T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-10-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-11-02T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-11-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-11-09T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-11-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-11-16T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-11-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-11-23T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-11-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-11-30T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-11-30T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-12-07T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-12-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-12-14T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-12-14T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-12-21T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-12-21T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2015-12-28T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2015-12-28T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-01-04T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-01-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-01-11T01:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2016-01-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-01-18T01:00:00.000Z",
+        "valueRollingrails": 1.25,
+        "daterails": "2016-01-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-01-25T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-01-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-02-01T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-02-01T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-02-08T01:00:00.000Z",
+        "valueRollingrails": 2.2,
+        "daterails": "2016-02-08T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-02-15T01:00:00.000Z",
+        "valueRollingrails": 2.4,
+        "daterails": "2016-02-15T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-02-22T01:00:00.000Z",
+        "valueRollingrails": 2.75,
+        "daterails": "2016-02-22T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-02-29T01:00:00.000Z",
+        "valueRollingrails": 2.75,
+        "daterails": "2016-02-29T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-03-07T01:00:00.000Z",
+        "valueRollingrails": 2.75,
+        "daterails": "2016-03-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-03-14T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-03-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-03-21T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2016-03-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-03-28T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-03-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-04-04T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-04-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-04-11T00:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2016-04-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-04-18T00:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2016-04-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-04-25T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-04-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-05-02T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2016-05-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-05-09T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2016-05-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-05-16T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2016-05-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-05-23T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2016-05-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-05-30T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-05-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-06-06T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-06-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-06-13T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-06-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-06-20T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-06-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-06-27T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-06-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-07-04T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-07-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-07-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-07-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-07-18T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-07-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-07-25T00:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2016-07-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-08-01T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-08-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-08-08T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-08-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-08-15T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2016-08-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-08-22T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-08-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-08-29T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-08-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-09-05T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2016-09-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-09-12T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-09-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-09-19T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-09-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-09-26T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-09-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-10-03T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-10-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-10-10T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-10-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-10-17T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-10-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-10-24T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-10-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-10-31T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-10-31T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-11-07T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2016-11-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-11-14T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2016-11-14T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-11-21T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-11-21T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-11-28T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-11-28T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-12-05T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-12-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-12-12T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-12-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-12-19T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-12-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2016-12-26T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2016-12-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-01-02T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2017-01-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-01-09T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-01-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-01-16T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2017-01-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-01-23T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-01-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-01-30T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2017-01-30T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-02-06T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2017-02-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-02-13T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2017-02-13T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-02-20T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-02-20T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-02-27T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2017-02-27T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-03-06T01:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-03-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-03-13T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-03-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-03-20T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-03-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-03-27T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-03-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-04-03T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-04-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-04-10T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2017-04-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-04-17T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2017-04-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-04-24T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-04-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-05-01T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-05-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-05-08T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-05-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-05-15T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-05-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-05-22T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2017-05-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-05-29T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2017-05-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-06-05T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-06-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-06-12T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-06-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-06-19T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-06-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-06-26T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-06-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-07-03T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-07-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-07-10T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-07-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-07-17T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-07-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-07-24T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-07-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-07-31T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-07-31T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-08-07T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-08-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-08-14T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-08-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-08-21T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-08-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-08-28T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-08-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-09-04T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-09-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-09-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-09-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-09-18T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-09-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-09-25T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-09-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-10-02T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-10-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-10-09T00:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2017-10-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-10-16T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-10-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-10-23T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-10-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-10-30T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-10-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-11-06T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-11-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-11-13T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-11-13T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-11-20T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2017-11-20T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-11-27T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-11-27T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-12-04T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-12-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-12-11T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-12-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-12-18T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-12-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2017-12-25T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2017-12-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-01-01T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2018-01-01T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-01-08T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2018-01-08T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-01-15T01:00:00.000Z",
+        "valueRollingrails": 0,
+        "daterails": "2018-01-15T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-01-22T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-01-22T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-01-29T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-01-29T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-02-05T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-02-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-02-12T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2018-02-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-02-19T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2018-02-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-02-26T01:00:00.000Z",
+        "valueRollingrails": 1.25,
+        "daterails": "2018-02-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-03-05T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-03-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-03-12T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-03-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-03-19T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-03-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-03-26T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-03-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-04-02T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-04-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-04-09T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-04-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-04-16T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2018-04-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-04-23T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-04-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-04-30T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-04-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-05-07T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-05-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-05-14T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-05-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-05-21T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-05-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-05-28T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-05-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-06-04T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-06-04T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-06-11T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2018-06-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-06-18T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2018-06-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-06-25T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2018-06-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-07-02T00:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2018-07-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-07-09T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-07-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-07-16T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-07-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-07-23T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-07-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-07-30T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-07-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-08-06T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-08-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-08-13T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-08-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-08-20T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-08-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-08-27T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-08-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-09-03T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2018-09-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-09-10T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2018-09-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-09-17T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-09-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-09-24T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-09-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-10-01T00:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2018-10-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-10-08T00:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2018-10-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-10-15T00:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2018-10-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-10-22T00:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2018-10-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-10-29T00:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2018-10-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-11-05T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-11-05T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-11-12T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-11-12T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-11-19T01:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2018-11-19T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-11-26T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2018-11-26T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-12-03T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-12-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-12-10T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-12-10T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-12-17T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-12-17T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-12-24T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2018-12-24T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2018-12-31T01:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2018-12-31T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-01-07T01:00:00.000Z",
+        "valueRollingrails": 2.33,
+        "daterails": "2019-01-07T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-01-14T01:00:00.000Z",
+        "valueRollingrails": 3,
+        "daterails": "2019-01-14T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-01-21T01:00:00.000Z",
+        "valueRollingrails": 2.67,
+        "daterails": "2019-01-21T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-01-28T01:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2019-01-28T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-02-04T01:00:00.000Z",
+        "valueRollingrails": 2.67,
+        "daterails": "2019-02-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-02-11T01:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2019-02-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-02-18T01:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2019-02-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-02-25T01:00:00.000Z",
+        "valueRollingrails": 1.33,
+        "daterails": "2019-02-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-03-04T01:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-03-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-03-11T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-03-11T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-03-18T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-03-18T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-03-25T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-03-25T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-04-01T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-04-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-04-08T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-04-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-04-15T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-04-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-04-22T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-04-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-04-29T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-04-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-05-06T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-05-06T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-05-13T00:00:00.000Z",
+        "valueRollingrails": 1,
+        "daterails": "2019-05-13T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-05-20T00:00:00.000Z",
+        "valueRollingrails": 1.5,
+        "daterails": "2019-05-20T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-05-27T00:00:00.000Z",
+        "valueRollingrails": 1.67,
+        "daterails": "2019-05-27T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-06-03T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2019-06-03T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-06-10T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2019-06-10T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-06-17T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2019-06-17T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-06-24T00:00:00.000Z",
+        "valueRollingrails": 2.25,
+        "daterails": "2019-06-24T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-07-01T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2019-07-01T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-07-08T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2019-07-08T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-07-15T00:00:00.000Z",
+        "valueRollingrails": 2,
+        "daterails": "2019-07-15T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-07-22T00:00:00.000Z",
+        "valueRollingrails": 2.2,
+        "daterails": "2019-07-22T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-07-29T00:00:00.000Z",
+        "valueRollingrails": 2.2,
+        "daterails": "2019-07-29T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-08-05T00:00:00.000Z",
+        "valueRollingrails": 2.4,
+        "daterails": "2019-08-05T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-08-12T00:00:00.000Z",
+        "valueRollingrails": 2.8,
+        "daterails": "2019-08-12T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-08-19T00:00:00.000Z",
+        "valueRollingrails": 2.6,
+        "daterails": "2019-08-19T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-08-26T00:00:00.000Z",
+        "valueRollingrails": 2.2,
+        "daterails": "2019-08-26T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-09-02T00:00:00.000Z",
+        "valueRollingrails": 1.8,
+        "daterails": "2019-09-02T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-09-09T00:00:00.000Z",
+        "valueRollingrails": 2.2,
+        "daterails": "2019-09-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-09-16T00:00:00.000Z",
+        "valueRollingrails": 1.75,
+        "daterails": "2019-09-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-09-23T00:00:00.000Z",
+        "valueRollingrails": 2.25,
+        "daterails": "2019-09-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-09-30T00:00:00.000Z",
+        "valueRollingrails": 2.5,
+        "daterails": "2019-09-30T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-10-07T00:00:00.000Z",
+        "valueRollingrails": 3.75,
+        "daterails": "2019-10-07T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-10-14T00:00:00.000Z",
+        "valueRollingrails": 3.25,
+        "daterails": "2019-10-14T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-10-21T00:00:00.000Z",
+        "valueRollingrails": 3,
+        "daterails": "2019-10-21T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-10-28T00:00:00.000Z",
+        "valueRollingrails": 3.2,
+        "daterails": "2019-10-28T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-11-04T01:00:00.000Z",
+        "valueRollingrails": 3.6,
+        "daterails": "2019-11-04T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-11-11T01:00:00.000Z",
+        "valueRollingrails": 3.4,
+        "daterails": "2019-11-11T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-11-18T01:00:00.000Z",
+        "valueRollingrails": 4.4,
+        "daterails": "2019-11-18T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-11-25T01:00:00.000Z",
+        "valueRollingrails": 4.6,
+        "daterails": "2019-11-25T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-12-02T01:00:00.000Z",
+        "valueRollingrails": 5.2,
+        "daterails": "2019-12-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-12-09T01:00:00.000Z",
+        "valueRollingrails": 4.8,
+        "daterails": "2019-12-09T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-12-16T01:00:00.000Z",
+        "valueRollingrails": 4.4,
+        "daterails": "2019-12-16T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-12-23T01:00:00.000Z",
+        "valueRollingrails": 4.6,
+        "daterails": "2019-12-23T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2019-12-30T01:00:00.000Z",
+        "valueRollingrails": 5.4,
+        "daterails": "2019-12-30T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-01-06T01:00:00.000Z",
+        "valueRollingrails": 5.6,
+        "daterails": "2020-01-06T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-01-13T01:00:00.000Z",
+        "valueRollingrails": 7,
+        "daterails": "2020-01-13T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-01-20T01:00:00.000Z",
+        "valueRollingrails": 7.6,
+        "daterails": "2020-01-20T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-01-27T01:00:00.000Z",
+        "valueRollingrails": 7.5,
+        "daterails": "2020-01-27T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-02-03T01:00:00.000Z",
+        "valueRollingrails": 8,
+        "daterails": "2020-02-03T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-02-10T01:00:00.000Z",
+        "valueRollingrails": 8.5,
+        "daterails": "2020-02-10T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-02-17T01:00:00.000Z",
+        "valueRollingrails": 8.25,
+        "daterails": "2020-02-17T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-02-24T01:00:00.000Z",
+        "valueRollingrails": 9.5,
+        "daterails": "2020-02-24T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-03-02T01:00:00.000Z",
+        "valueRollingrails": 9.8,
+        "daterails": "2020-03-02T01:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-03-09T00:00:00.000Z",
+        "valueRollingrails": 8.2,
+        "daterails": "2020-03-09T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-03-16T00:00:00.000Z",
+        "valueRollingrails": 7.75,
+        "daterails": "2020-03-16T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      },
+      {
+        "date": "2020-03-23T00:00:00.000Z",
+        "valueRollingrails": 7.67,
+        "daterails": "2020-03-23T00:00:00.000Z",
+        "name": "rails openIssuesCount"
+      }
+    ]
+  },
+  "config": {
+    "axis": {"grid": true},
+    "legend": {
+      "offset": -609.5238095238095,
+      "titleFontSize": 0,
+      "titlePadding": 10
+    }
+  },
+  "vconcat": [
+    {
+      "width": 640,
+      "height": 323,
+      "layer": [
+        {
+          "transform": [{"filter": "datum.date > 0"}],
+          "mark": "rule",
+          "encoding": {
+            "x": {
+              "field": "date",
+              "type": "temporal",
+              "axis": {"labels": true, "format": "%b %Y", "title": " "}
+            },
+            "color": {
+              "field": "name",
+              "type": "nominal",
+              "scale": {
+                "range": [
+                  "black",
+                  "#FF3647",
+                  "#4736FF",
+                  "#3cb44b",
+                  "#ffe119",
+                  "#f58231",
+                  "#911eb4",
+                  "#42d4f4",
+                  "#f032e6"
+                ]
+              },
+              "sort": false
+            },
+            "opacity": {"value": 0}
+          }
+        },
+        {
+          "transform": [{"filter": "datum.date > 0"}],
+          "mark": {"type": "area", "interpolate": "basis", "clip": true},
+          "encoding": {
+            "x": {
+              "field": "daterails",
+              "type": "temporal",
+              "axis": {"format": "%b %Y", "title": " "}
+            },
+            "y": {
+              "field": "lowerrails",
+              "type": "quantitative",
+              "axis": {"title": null}
+            },
+            "y2": {
+              "field": "upperrails",
+              "type": "quantitative",
+              "axis": {"title": null}
+            },
+            "color": {"value": "gray"},
+            "opacity": {"value": 0.14}
+          }
+        },
+        {
+          "encoding": {
+            "x": {
+              "field": "daterails",
+              "type": "temporal",
+              "axis": {"labels": true, "format": "%b %Y", "title": " "}
+            },
+            "y": {
+              "field": "valueRollingrails",
+              "type": "quantitative",
+              "axis": {"title": null}
+            },
+            "color": {"value": "black"}
+          },
+          "mark": {"type": "line", "interpolate": "basis", "clip": true}
+        },
+        {
+          "encoding": {
+            "x": {
+              "field": "dateundefined",
+              "type": "temporal",
+              "axis": {"labels": true, "format": "%b %Y", "title": " "}
+            },
+            "y": {
+              "field": "valueRollingrails",
+              "type": "quantitative",
+              "axis": {"title": null}
+            },
+            "color": {"value": "black"}
+          },
+          "mark": {"type": "line", "interpolate": "basis", "clip": true}
+        }
+      ]
+    }
+  ]
+}

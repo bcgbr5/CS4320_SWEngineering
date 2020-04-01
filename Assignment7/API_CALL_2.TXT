@@ -1,0 +1,30 @@
+{
+    "trails": [
+        {
+            "id": 7041539,
+            "name": "Hominy Creek Trail",
+            "type": "Trail",
+            "summary": "Needs Summary",
+            "difficulty": "green",
+            "stars": 5,
+            "starVotes": 1,
+            "location": "Columbia, Missouri",
+            "url": "https:\/\/www.mtbproject.com\/trail\/7041539\/hominy-creek-trail",
+            "imgSqSmall": "",
+            "imgSmall": "",
+            "imgSmallMed": "",
+            "imgMedium": "",
+            "length": 3.1,
+            "ascent": 61,
+            "descent": -162,
+            "high": 763,
+            "low": 662,
+            "longitude": -92.2621,
+            "latitude": 38.9666,
+            "conditionStatus": "Unknown",
+            "conditionDetails": null,
+            "conditionDate": "1970-01-01 00:00:00"
+        }
+    ],
+    "success": 1
+}
